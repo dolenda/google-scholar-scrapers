@@ -1,0 +1,5 @@
+I Scrap urls of articles that cite multiverse-type articles
+
+II Get articles that applied multiverse-type analysis (avoid theoretical articles)
+
+III Organize visualizations of multiverse-type analysis on the filtered data 
