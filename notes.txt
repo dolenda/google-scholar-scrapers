@@ -1,0 +1,3 @@
+See Young (2018) "Model uncertainty and crisis in science"
+
+See Gelman (2017) "Null hypothesis significance testing is incompatible with incrementalism" 
